@@ -1,0 +1,21 @@
+.me{
+    height: 800px;
+    width: 500px;
+    border: 3px ;
+    background-image: url("cover.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 60px;
+    
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 450px;
+    margin-bottom: 500px;
+    margin-right: 500px;
+
+}
+body{
+    background-color: brown;
+    
+}
+
